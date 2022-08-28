@@ -1,0 +1,1 @@
+web: gunicorn stackedapi.wsgi --log-file -
